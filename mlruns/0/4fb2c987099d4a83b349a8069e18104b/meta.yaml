@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Tanner%20Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4fb2c987099d4a83b349a8069e18104b/artifacts
+end_time: 1701616240604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fb2c987099d4a83b349a8069e18104b
+run_name: valuable-kit-743
+run_uuid: 4fb2c987099d4a83b349a8069e18104b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701616175781
+status: 3
+tags: []
+user_id: tannerpeck

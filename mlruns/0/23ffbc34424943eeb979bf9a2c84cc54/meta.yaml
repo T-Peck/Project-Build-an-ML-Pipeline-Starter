@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Tanner%20Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/23ffbc34424943eeb979bf9a2c84cc54/artifacts
+end_time: 1701616240863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23ffbc34424943eeb979bf9a2c84cc54
+run_name: legendary-snipe-298
+run_uuid: 23ffbc34424943eeb979bf9a2c84cc54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701616126665
+status: 3
+tags: []
+user_id: tannerpeck
