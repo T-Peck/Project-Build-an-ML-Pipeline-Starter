@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Tanner%20Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a99c094bbd9c442888d4acf595179213/artifacts
+end_time: 1701715016861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a99c094bbd9c442888d4acf595179213
+run_name: awesome-skunk-472
+run_uuid: a99c094bbd9c442888d4acf595179213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701714929517
+status: 3
+tags: []
+user_id: tannerpeck
