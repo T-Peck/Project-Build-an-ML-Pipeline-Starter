@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Tanner%20Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3215ca0281df4497a75c444dfdaf179a/artifacts
+end_time: 1701711605017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3215ca0281df4497a75c444dfdaf179a
+run_name: honorable-moose-789
+run_uuid: 3215ca0281df4497a75c444dfdaf179a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701711589623
+status: 3
+tags: []
+user_id: tannerpeck

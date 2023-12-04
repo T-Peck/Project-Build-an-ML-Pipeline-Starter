@@ -1,0 +1,137 @@
+{
+    "os": "Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.18",
+    "heartbeatAt": "2023-12-04T17:34:47.898746",
+    "startedAt": "2023-12-04T17:34:45.299107",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        ".",
+        "-vv",
+        "--csv",
+        "nyc_airbnb/clean_sample.csv:latest",
+        "--ref",
+        "nyc_airbnb/clean_sample.csv:reference",
+        "--kl_threshold",
+        "0.2",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/home/tannerpeck/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest",
+    "git": {
+        "remote": "https://github.com/T-Peck/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "8c6af611d7a5056f95e609f9b47e17ed2183cb8d"
+    },
+    "email": null,
+    "root": "/mnt/c/Users/Tanner Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter",
+    "host": "DellXPS15",
+    "username": "tannerpeck",
+    "executable": "/home/tannerpeck/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2304.0,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.0,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 11.87697982788086
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 7.621406555175781
+    }
+}
