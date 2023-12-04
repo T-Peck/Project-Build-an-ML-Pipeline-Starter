@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Tanner%20Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/792328a07ac04147ab1f14210538bc1f/artifacts
+end_time: 1701712321898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 792328a07ac04147ab1f14210538bc1f
+run_name: nosy-kite-405
+run_uuid: 792328a07ac04147ab1f14210538bc1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701712214506
+status: 3
+tags: []
+user_id: tannerpeck

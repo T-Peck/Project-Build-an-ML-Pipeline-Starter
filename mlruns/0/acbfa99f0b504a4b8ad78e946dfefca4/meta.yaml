@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Tanner%20Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/acbfa99f0b504a4b8ad78e946dfefca4/artifacts
+end_time: 1701712321655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acbfa99f0b504a4b8ad78e946dfefca4
+run_name: masked-asp-5
+run_uuid: acbfa99f0b504a4b8ad78e946dfefca4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701712219595
+status: 3
+tags: []
+user_id: tannerpeck
