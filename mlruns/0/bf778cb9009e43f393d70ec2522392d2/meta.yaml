@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Tanner%20Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bf778cb9009e43f393d70ec2522392d2/artifacts
+end_time: 1701716573841
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf778cb9009e43f393d70ec2522392d2
+run_name: victorious-fowl-714
+run_uuid: bf778cb9009e43f393d70ec2522392d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701716558824
+status: 4
+tags: []
+user_id: tannerpeck

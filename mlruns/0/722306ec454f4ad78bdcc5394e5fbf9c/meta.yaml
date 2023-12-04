@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Tanner%20Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/722306ec454f4ad78bdcc5394e5fbf9c/artifacts
+end_time: 1701716574123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 722306ec454f4ad78bdcc5394e5fbf9c
+run_name: gregarious-shad-171
+run_uuid: 722306ec454f4ad78bdcc5394e5fbf9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701716512526
+status: 4
+tags: []
+user_id: tannerpeck
