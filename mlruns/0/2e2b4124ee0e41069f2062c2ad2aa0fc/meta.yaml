@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Tanner%20Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2e2b4124ee0e41069f2062c2ad2aa0fc/artifacts
+end_time: 1701716867640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e2b4124ee0e41069f2062c2ad2aa0fc
+run_name: efficient-yak-611
+run_uuid: 2e2b4124ee0e41069f2062c2ad2aa0fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701716852099
+status: 3
+tags: []
+user_id: tannerpeck

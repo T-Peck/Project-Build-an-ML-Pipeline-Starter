@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Tanner%20Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c1f0daef94e54948a833cfa9920ca03f/artifacts
+end_time: 1701717091796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1f0daef94e54948a833cfa9920ca03f
+run_name: enchanting-shrew-493
+run_uuid: c1f0daef94e54948a833cfa9920ca03f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701716847924
+status: 3
+tags: []
+user_id: tannerpeck

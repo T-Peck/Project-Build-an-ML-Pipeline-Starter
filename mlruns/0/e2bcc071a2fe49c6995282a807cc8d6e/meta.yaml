@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Tanner%20Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e2bcc071a2fe49c6995282a807cc8d6e/artifacts
+end_time: 1701716889012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2bcc071a2fe49c6995282a807cc8d6e
+run_name: brawny-boar-734
+run_uuid: e2bcc071a2fe49c6995282a807cc8d6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701716867680
+status: 3
+tags: []
+user_id: tannerpeck
