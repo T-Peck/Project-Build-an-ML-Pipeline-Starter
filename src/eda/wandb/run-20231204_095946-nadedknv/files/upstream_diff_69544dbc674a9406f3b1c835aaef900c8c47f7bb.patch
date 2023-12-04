@@ -1,0 +1,424 @@
+diff --git a/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/meta.yaml b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/meta.yaml
+new file mode 100644
+index 0000000..af051b7
+--- /dev/null
++++ b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/meta.yaml
+@@ -0,0 +1,15 @@
++artifact_uri: file:///mnt/c/Users/Tanner%20Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/artifacts
++end_time: 1701705442117
++entry_point_name: ''
++experiment_id: '0'
++lifecycle_stage: active
++run_id: 5c7e94e861b64aaebca0716a362c95f5
++run_name: dapper-dove-946
++run_uuid: 5c7e94e861b64aaebca0716a362c95f5
++source_name: ''
++source_type: 4
++source_version: ''
++start_time: 1701705424436
++status: 3
++tags: []
++user_id: tannerpeck
+diff --git a/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/params/artifact_description b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/params/artifact_description
+new file mode 100644
+index 0000000..bee2a48
+--- /dev/null
++++ b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/params/artifact_description
+@@ -0,0 +1 @@
++'Raw file as downloaded'
+\ No newline at end of file
+diff --git a/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/params/artifact_name b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/params/artifact_name
+new file mode 100644
+index 0000000..043b604
+--- /dev/null
++++ b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/params/artifact_name
+@@ -0,0 +1 @@
++sample.csv
+\ No newline at end of file
+diff --git a/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/params/artifact_type b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/params/artifact_type
+new file mode 100644
+index 0000000..33abe20
+--- /dev/null
++++ b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/params/artifact_type
+@@ -0,0 +1 @@
++raw_data
+\ No newline at end of file
+diff --git a/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/params/sample b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/params/sample
+new file mode 100644
+index 0000000..c1e1cd7
+--- /dev/null
++++ b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/params/sample
+@@ -0,0 +1 @@
++sample1.csv
+\ No newline at end of file
+diff --git a/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.gitRepoURL b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.gitRepoURL
+new file mode 100644
+index 0000000..a9e0a68
+--- /dev/null
++++ b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.gitRepoURL
+@@ -0,0 +1 @@
++https://github.com/udacity/Project-Build-an-ML-Pipeline-Starter.git
+\ No newline at end of file
+diff --git a/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.project.backend b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.project.backend
+new file mode 100644
+index 0000000..c2c027f
+--- /dev/null
++++ b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.project.backend
+@@ -0,0 +1 @@
++local
+\ No newline at end of file
+diff --git a/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.project.entryPoint b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.project.entryPoint
+new file mode 100644
+index 0000000..88d050b
+--- /dev/null
++++ b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.project.entryPoint
+@@ -0,0 +1 @@
++main
+\ No newline at end of file
+diff --git a/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.project.env b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.project.env
+new file mode 100644
+index 0000000..f79e4cb
+--- /dev/null
++++ b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.project.env
+@@ -0,0 +1 @@
++conda
+\ No newline at end of file
+diff --git a/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.runName b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.runName
+new file mode 100644
+index 0000000..b20477b
+--- /dev/null
++++ b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.runName
+@@ -0,0 +1 @@
++dapper-dove-946
+\ No newline at end of file
+diff --git a/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.source.git.commit b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.source.git.commit
+new file mode 100644
+index 0000000..177f79e
+--- /dev/null
++++ b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.source.git.commit
+@@ -0,0 +1 @@
++077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98
+\ No newline at end of file
+diff --git a/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.source.git.repoURL b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.source.git.repoURL
+new file mode 100644
+index 0000000..a9e0a68
+--- /dev/null
++++ b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.source.git.repoURL
+@@ -0,0 +1 @@
++https://github.com/udacity/Project-Build-an-ML-Pipeline-Starter.git
+\ No newline at end of file
+diff --git a/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.source.name b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.source.name
+new file mode 100644
+index 0000000..1a856ff
+--- /dev/null
++++ b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.source.name
+@@ -0,0 +1 @@
++https://github.com/udacity/Project-Build-an-ML-Pipeline-Starter.git#components/get_data
+\ No newline at end of file
+diff --git a/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.source.type b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.source.type
+new file mode 100644
+index 0000000..53f9167
+--- /dev/null
++++ b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.source.type
+@@ -0,0 +1 @@
++PROJECT
+\ No newline at end of file
+diff --git a/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.user b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.user
+new file mode 100644
+index 0000000..99ea9bb
+--- /dev/null
++++ b/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/tags/mlflow.user
+@@ -0,0 +1 @@
++tannerpeck
+\ No newline at end of file
+diff --git a/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/meta.yaml b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/meta.yaml
+new file mode 100644
+index 0000000..01ebd4a
+--- /dev/null
++++ b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/meta.yaml
+@@ -0,0 +1,15 @@
++artifact_uri: file:///mnt/c/Users/Tanner%20Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/artifacts
++end_time: 1701705442346
++entry_point_name: ''
++experiment_id: '0'
++lifecycle_stage: active
++run_id: fcd555cfe88a4f0fb9648e3275cb9053
++run_name: unleashed-shrimp-450
++run_uuid: fcd555cfe88a4f0fb9648e3275cb9053
++source_name: ''
++source_type: 4
++source_version: ''
++start_time: 1701705418466
++status: 3
++tags: []
++user_id: tannerpeck
+diff --git a/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/params/hydra_options b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/params/hydra_options
+new file mode 100644
+index 0000000..9423090
+--- /dev/null
++++ b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/params/hydra_options
+@@ -0,0 +1 @@
++''
+\ No newline at end of file
+diff --git a/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/params/steps b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/params/steps
+new file mode 100644
+index 0000000..8a58e1a
+--- /dev/null
++++ b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/params/steps
+@@ -0,0 +1 @@
++download
+\ No newline at end of file
+diff --git a/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.gitRepoURL b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.gitRepoURL
+new file mode 100644
+index 0000000..6849338
+--- /dev/null
++++ b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.gitRepoURL
+@@ -0,0 +1 @@
++https://github.com/T-Peck/Project-Build-an-ML-Pipeline-Starter.git
+\ No newline at end of file
+diff --git a/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.project.backend b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.project.backend
+new file mode 100644
+index 0000000..c2c027f
+--- /dev/null
++++ b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.project.backend
+@@ -0,0 +1 @@
++local
+\ No newline at end of file
+diff --git a/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.project.entryPoint b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.project.entryPoint
+new file mode 100644
+index 0000000..88d050b
+--- /dev/null
++++ b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.project.entryPoint
+@@ -0,0 +1 @@
++main
+\ No newline at end of file
+diff --git a/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.project.env b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.project.env
+new file mode 100644
+index 0000000..f79e4cb
+--- /dev/null
++++ b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.project.env
+@@ -0,0 +1 @@
++conda
+\ No newline at end of file
+diff --git a/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.runName b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.runName
+new file mode 100644
+index 0000000..80b41ca
+--- /dev/null
++++ b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.runName
+@@ -0,0 +1 @@
++unleashed-shrimp-450
+\ No newline at end of file
+diff --git a/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.source.git.commit b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.source.git.commit
+new file mode 100644
+index 0000000..270e28b
+--- /dev/null
++++ b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.source.git.commit
+@@ -0,0 +1 @@
++69544dbc674a9406f3b1c835aaef900c8c47f7bb
+\ No newline at end of file
+diff --git a/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.source.git.repoURL b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.source.git.repoURL
+new file mode 100644
+index 0000000..6849338
+--- /dev/null
++++ b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.source.git.repoURL
+@@ -0,0 +1 @@
++https://github.com/T-Peck/Project-Build-an-ML-Pipeline-Starter.git
+\ No newline at end of file
+diff --git a/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.source.name b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.source.name
+new file mode 100644
+index 0000000..b79a3e0
+--- /dev/null
++++ b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.source.name
+@@ -0,0 +1 @@
++file:///mnt/c/Users/Tanner Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter
+\ No newline at end of file
+diff --git a/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.source.type b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.source.type
+new file mode 100644
+index 0000000..53f9167
+--- /dev/null
++++ b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.source.type
+@@ -0,0 +1 @@
++PROJECT
+\ No newline at end of file
+diff --git a/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.user b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.user
+new file mode 100644
+index 0000000..99ea9bb
+--- /dev/null
++++ b/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/tags/mlflow.user
+@@ -0,0 +1 @@
++tannerpeck
+\ No newline at end of file
+diff --git a/outputs/2023-12-04/09-57-01/.hydra/config.yaml b/outputs/2023-12-04/09-57-01/.hydra/config.yaml
+new file mode 100644
+index 0000000..7a99172
+--- /dev/null
++++ b/outputs/2023-12-04/09-57-01/.hydra/config.yaml
+@@ -0,0 +1,26 @@
++main:
++  components_repository: https://github.com/udacity/Project-Build-an-ML-Pipeline-Starter.git#components
++  project_name: nyc_airbnb
++  experiment_name: development
++  steps: download
++etl:
++  sample: sample1.csv
++  min_price: 10
++  max_price: 350
++data_check:
++  kl_threshold: 0.2
++modeling:
++  test_size: 0.2
++  val_size: 0.2
++  random_seed: 42
++  stratify_by: neighbourhood_group
++  max_tfidf_features: 5
++  random_forest:
++    n_estimators: 100
++    max_depth: 15
++    min_samples_split: 4
++    min_samples_leaf: 3
++    n_jobs: -1
++    criterion: mae
++    max_features: 0.5
++    oob_score: true
+diff --git a/outputs/2023-12-04/09-57-01/.hydra/hydra.yaml b/outputs/2023-12-04/09-57-01/.hydra/hydra.yaml
+new file mode 100644
+index 0000000..b4f2e9f
+--- /dev/null
++++ b/outputs/2023-12-04/09-57-01/.hydra/hydra.yaml
+@@ -0,0 +1,126 @@
++hydra:
++  run:
++    dir: outputs/${now:%Y-%m-%d}/${now:%H-%M-%S}
++  sweep:
++    dir: multirun/${now:%Y-%m-%d}/${now:%H-%M-%S}
++    subdir: ${hydra.job.num}
++  hydra_logging:
++    version: 1
++    formatters:
++      simple:
++        format: '[%(asctime)s][HYDRA] %(message)s'
++    handlers:
++      console:
++        class: logging.StreamHandler
++        formatter: simple
++        stream: ext://sys.stdout
++    root:
++      level: INFO
++      handlers:
++      - console
++    loggers:
++      logging_example:
++        level: DEBUG
++    disable_existing_loggers: false
++  job_logging:
++    version: 1
++    formatters:
++      simple:
++        format: '[%(asctime)s][%(name)s][%(levelname)s] - %(message)s'
++    handlers:
++      console:
++        class: logging.StreamHandler
++        formatter: simple
++        stream: ext://sys.stdout
++      file:
++        class: logging.FileHandler
++        formatter: simple
++        filename: ${hydra.job.name}.log
++    root:
++      level: INFO
++      handlers:
++      - console
++      - file
++    disable_existing_loggers: false
++  sweeper:
++    _target_: hydra._internal.core_plugins.basic_sweeper.BasicSweeper
++    max_batch_size: null
++  launcher:
++    _target_: hydra._internal.core_plugins.basic_launcher.BasicLauncher
++  help:
++    app_name: ${hydra.job.name}
++    header: '${hydra.help.app_name} is powered by Hydra.
++
++      '
++    footer: 'Powered by Hydra (https://hydra.cc)
++
++      Use --hydra-help to view Hydra specific help
++
++      '
++    template: '${hydra.help.header}
++
++      == Configuration groups ==
++
++      Compose your configuration from those groups (group=option)
++
++
++      $APP_CONFIG_GROUPS
++
++
++      == Config ==
++
++      Override anything in the config (foo.bar=value)
++
++
++      $CONFIG
++
++
++      ${hydra.help.footer}
++
++      '
++  hydra_help:
++    hydra_help: ???
++    template: 'Hydra (${hydra.runtime.version})
++
++      See https://hydra.cc for more info.
++
++
++      == Flags ==
++
++      $FLAGS_HELP
++
++
++      == Configuration groups ==
++
++      Compose your configuration from those groups (For example, append hydra/job_logging=disabled
++      to command line)
++
++
++      $HYDRA_CONFIG_GROUPS
++
++
++      Use ''--cfg hydra'' to Show the Hydra config.
++
++      '
++  output_subdir: .hydra
++  overrides:
++    hydra: []
++    task:
++    - main.steps='download'
++  job:
++    name: main
++    override_dirname: main.steps='download'
++    id: ???
++    num: ???
++    config_name: config
++    env_set: {}
++    env_copy: []
++    config:
++      override_dirname:
++        kv_sep: '='
++        item_sep: ','
++        exclude_keys: []
++  runtime:
++    version: 1.0.6
++    cwd: /mnt/c/Users/Tanner Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter
++  verbose: false
+diff --git a/outputs/2023-12-04/09-57-01/.hydra/overrides.yaml b/outputs/2023-12-04/09-57-01/.hydra/overrides.yaml
+new file mode 100644
+index 0000000..dbb770a
+--- /dev/null
++++ b/outputs/2023-12-04/09-57-01/.hydra/overrides.yaml
+@@ -0,0 +1 @@
++- main.steps='download'
+diff --git a/outputs/2023-12-04/09-57-01/main.log b/outputs/2023-12-04/09-57-01/main.log
+new file mode 100644
+index 0000000..e69de29
