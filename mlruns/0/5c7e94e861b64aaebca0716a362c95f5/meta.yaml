@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Tanner%20Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5c7e94e861b64aaebca0716a362c95f5/artifacts
+end_time: 1701705442117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c7e94e861b64aaebca0716a362c95f5
+run_name: dapper-dove-946
+run_uuid: 5c7e94e861b64aaebca0716a362c95f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701705424436
+status: 3
+tags: []
+user_id: tannerpeck

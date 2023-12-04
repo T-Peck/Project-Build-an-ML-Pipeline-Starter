@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Tanner%20Peck/Documents/GitHub/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fcd555cfe88a4f0fb9648e3275cb9053/artifacts
+end_time: 1701705442346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcd555cfe88a4f0fb9648e3275cb9053
+run_name: unleashed-shrimp-450
+run_uuid: fcd555cfe88a4f0fb9648e3275cb9053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701705418466
+status: 3
+tags: []
+user_id: tannerpeck
