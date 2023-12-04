@@ -56,7 +56,7 @@ def go(config: DictConfig):
 
         if "data_check" in active_steps:
             ##################
-            # Implement here #test2
+            # Implement here #
             ##################
             pass
 
